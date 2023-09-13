@@ -49,7 +49,7 @@ export default {
   data: () => ({
     //
   }),
-  methods:{
+  methods: {
     goToLogin () {
       this.$router.push('/login')
     }
